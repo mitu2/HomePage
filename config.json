@@ -1,45 +1,48 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "mitu2 · HomePage",
+		"description": "Author:mitu2,Category:Personal homepage",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
-		"enter": "enter",
+		"title": "mitu2",
+		"subtitle": "A Java back-end development engineer",
+		"enter": "Click",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
+		"name": "mitu2",
 		"signature": "Code & Input & Output",
 		"avatar": {
-			"link": "assets/avatar.jpg",
+			"link": "https://avatars.githubusercontent.com/u/71170999",
 			"height": "100",
 			"width": "100"
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://blog.metoo.ink",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://blog.metoo.ink/me",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "mailto:chenmoand@outlook.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/mitu2",
 				"icon": "github",
 				"text": "Github"
 			}
 		}
+	},
+	"footer": {
+		"icp": "冀ICP备2021022987号-2"
 	}
 }
